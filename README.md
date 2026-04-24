@@ -6,8 +6,6 @@
 
 **🏆 Accepted by AAAI 2026** · [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/40416) · [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/40416/44507) · [DOI](https://doi.org/10.1609/aaai.v40i37.40416)
 
-<!-- Optional badges: replace the Hugging Face path after release -->
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-yellow)](https://huggingface.co/AndongLi/DegVoC)
 
 </div>
 
@@ -64,6 +62,7 @@ DegVoC/
 ├── cfgs/
 │   └── degvoc_libritts_config.json
 ├── ckpts/
+├    └── g_02000000_n8.pt
 ├── DatasetsScp/
 │   └── LibriTTS/
 ├── Models/
@@ -150,14 +149,6 @@ python inference.py \
   --checkpoint_file_load ./ckpts/g_02000000_n8.pt \
   --device auto
 ```
-
----
-
-## 🤗 Hugging Face
-
-| Model Name                   | Dataset | Sample Rate | NMel | Training Steps |
-|------------------------------|---------|-------------|------|----------------|
-| 🤗 [DegVoC-LibriTTS](https://huggingface.co/AndongLi/DegVoC/blob/main/g_02000000_n8.pt) | LibriTTS | 24k Hz | 100 | 1M Generator + 1M Discriminator |
 
 ---
 
