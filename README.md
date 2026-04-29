@@ -4,7 +4,7 @@
 
 **Andong Li, Tong Lei, Lingling Dai, Kai Li, Rilin Chen, Meng Yu, Xiaodong Li, Dong Yu, Chengshi Zheng**
 
-**🏆 Accepted by AAAI 2026** · [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/40416) · [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/40416/44507) · [DOI](https://doi.org/10.1609/aaai.v40i37.40416)
+**🏆 Accepted by AAAI 2026** · [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/40416) · [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/40416/44377) · [DOI](https://doi.org/10.1609/aaai.v40i37.40416)
 
 
 </div>
